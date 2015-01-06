@@ -1,0 +1,4 @@
+{
+    "Mysql":"root:@tcp(localhost:3306)/mob_portal?charset=charset",
+    "HashKey":"os.debian@gmail.com/mobChecker@@@@isojgoahoanoyuf"
+}
